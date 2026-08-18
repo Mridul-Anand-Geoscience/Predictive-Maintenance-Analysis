@@ -19,7 +19,8 @@ Equipment failure in heavy industrial operations can cost millions of dollars in
 ## Key Business Insights
 1. **Interactive Risk Mapping:** Deployed Plotly scatter maps to isolate the "Danger Zones" of machine operation. 
 2. **Operational Boundaries:** The data proves that failures are not random. The vast majority of catastrophic failures occur during extreme imbalances between Rotational Speed and Torque (e.g., high torque at low speeds).
-3. **Preventative Action:** By actively monitoring these specific operational boundaries, field engineers can halt operations for maintenance before the physical breaking point is reached.
+3. **Preventative Action:** By actively monitoring these specific operational boundaries, field engineers can halt operations for maintenance before the physical breaking point is reached. <img width="997" height="647" alt="image" src="https://github.com/user-attachments/assets/8e8945f0-8313-452a-a710-fbf769c40f00" />
+
 
 ## View the Project
 Click on the `Predictive_Maintenance.ipynb` file above to view the complete code, the SMOTE implementation, and the interactive Plotly visualizations.
